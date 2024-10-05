@@ -18,6 +18,3 @@ while (str2Pointer<len(str2)):
     c+=1
     
 print(c)
-print('working')
-print('gnan hero')
-print('gnan hero')
