@@ -20,3 +20,4 @@ while (str2Pointer<len(str2)):
 print(c)
 print('working')
 print('gnan hero')
+print('gnan hero')
